@@ -4,17 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "1019eafcc1bdbc6e",
+        "id": "f9bb0ca61a949af5",
         "type": "tabs",
         "children": [
           {
-            "id": "7ba2e3f5e5fdd405",
+            "id": "ab734d02006798a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Investigación Operativa/Clase 19-03-2025.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Clase 19-03-2025"
+            }
+          },
+          {
+            "id": "ce930cc3f84a8fef",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-19 20.23.57.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-19 20.23.57.excalidraw"
             }
           }
         ]
@@ -74,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2ed33e47ee13e823",
@@ -158,12 +175,28 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7ba2e3f5e5fdd405",
+  "active": "ab734d02006798a2",
   "lastOpenFiles": [
     "Sin título.md",
+    "Investigación Operativa/Clase 19-03-2025.md",
+    "Excalidraw/Drawing 2025-03-19 20.23.57.excalidraw.md",
+    "Imagenes/Pasted image 20250319220728.png",
+    "Imagenes/Pasted image 20250319220726.png",
+    "Imagenes/Pasted image 20250319220625.png",
+    "Imagenes/Pasted image 20250319220556.png",
+    "Imagenes/Pasted image 20250319213056.png",
+    "Imagenes/Pasted image 20250319212203.png",
+    "Imagenes/Pasted image 20250319212153.png",
+    "Pasted image 20250319220728.png",
+    "Pasted image 20250319220726.png",
+    "Pasted image 20250319220625.png",
+    "Excalidraw",
+    "Redes de Datos/Capitulo 1.md",
+    "Imagenes",
     "Tecnologías para la Automatización",
     "Simulación",
     "Redes de Datos",
@@ -171,7 +204,6 @@
     "Lenguaje, Computabilidad y Aplicaciones Modernas",
     "Legislación",
     "Investigación Operativa",
-    "Ingeniería y Calidad de Software",
-    "Administración de Sistemas de Información"
+    "Ingeniería y Calidad de Software"
   ]
 }
