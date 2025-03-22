@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f9bb0ca61a949af5",
+        "id": "5417de3958230b93",
         "type": "tabs",
         "children": [
           {
-            "id": "f7b75e2eaec90899",
+            "id": "71abc0d852cd4ca5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes de Datos/Capitulo 1.md",
+                "file": "Administración de Sistemas de Información/Clase 22-03-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capitulo 1"
+              "title": "Clase 22-03-2025"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Administración de Sistemas de Información/Clase 22-03-2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Clase 22-03-2025"
             }
           },
           {
@@ -140,19 +141,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Administración de Sistemas de Información/Clase 22-03-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Clase 22-03-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -166,11 +169,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f7b75e2eaec90899",
+  "active": "71abc0d852cd4ca5",
   "lastOpenFiles": [
+    "Administración de Sistemas de Información/Clase 22-03-2025.md",
+    "Redes de Datos/Capitulo 1.md",
     "Imagenes/Pasted image 20250321184627.png",
     "Redes de Datos/Clase 21-03-2025.md",
-    "Redes de Datos/Capitulo 1.md",
     "Excalidraw/Drawing 2025-03-20 16.55.36.excalidraw.md",
     "Simulación/Clase 21-03-2025.md",
     "Pasted image 20250321184627.png",
@@ -184,7 +188,6 @@
     "Excalidraw/Drawing 2025-03-19 20.23.57.excalidraw.md",
     "Imagenes/Pasted image 20250319220728.png",
     "Imagenes/Pasted image 20250319220726.png",
-    "Imagenes/Pasted image 20250319220625.png",
     "Excalidraw",
     "Imagenes",
     "Tecnologías para la Automatización",
