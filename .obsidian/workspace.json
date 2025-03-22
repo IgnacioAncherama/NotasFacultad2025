@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce930cc3f84a8fef",
+            "id": "f7b75e2eaec90899",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Capitulo 1"
             }
-          },
-          {
-            "id": "f7b75e2eaec90899",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-03-20 16.55.36.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-20 16.55.36.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,9 +168,15 @@
   },
   "active": "f7b75e2eaec90899",
   "lastOpenFiles": [
+    "Imagenes/Pasted image 20250321184627.png",
+    "Redes de Datos/Clase 21-03-2025.md",
     "Redes de Datos/Capitulo 1.md",
-    "Sin título.md",
     "Excalidraw/Drawing 2025-03-20 16.55.36.excalidraw.md",
+    "Simulación/Clase 21-03-2025.md",
+    "Pasted image 20250321184627.png",
+    "Imagenes/Pasted Image 20250320172115_735.png",
+    "Imagenes/Pasted Image 20250320170335_255.png",
+    "Imagenes/Pasted Image 20250320165614_814.png",
     "Pasted Image 20250320172115_735.png",
     "Pasted Image 20250320170335_255.png",
     "Pasted Image 20250320165614_814.png",
@@ -192,10 +185,6 @@
     "Imagenes/Pasted image 20250319220728.png",
     "Imagenes/Pasted image 20250319220726.png",
     "Imagenes/Pasted image 20250319220625.png",
-    "Imagenes/Pasted image 20250319220556.png",
-    "Imagenes/Pasted image 20250319213056.png",
-    "Imagenes/Pasted image 20250319212203.png",
-    "Imagenes/Pasted image 20250319212153.png",
     "Excalidraw",
     "Imagenes",
     "Tecnologías para la Automatización",
